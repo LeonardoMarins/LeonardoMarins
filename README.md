@@ -5,7 +5,7 @@
 <p align="left"> 
 Desenvolvedor Full Stack Java, graduando em Sistema de informação, profissional com perfil em trabalhar com equipe.
 
-Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos mobile; (desenvolvi com minha equipe um sistema de cadastro de formulário e checklists para uma empresa em Macaé onde aprendi competências como php,html,css,Javascript,mysql,git,github,nextJs e prisma ).
+Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos mobile; (desenvolvi com minha equipe um sistema de cadastro de formulário,checklists e controle de equipamentos para uma empresa em Macaé onde aprendi competências como php,html,css,Javascript,mysql,git,github,nextJs e prisma ).
 
 • Habilidades em: html,css,sass,gulp,metodologia BEM,git e github; 
 
