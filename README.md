@@ -39,9 +39,7 @@ Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos m
 <table>
   <tr>
     <td>
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=LeonardoMarins&show_icons=true&theme=tokyonight" />   
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarins&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarins&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=LeonardoMarins&show_icons=true&theme=tokyonight" />  
     </td>
     <td>
       <img
