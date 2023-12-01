@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Desenvolvedor Full Stack Java, graduando em Sistema de informação, profissional com perfil em trabalhar com equipe.
+Desenvolvedor Full Stack, graduando em Sistema de informação, profissional com perfil em trabalhar com equipe.
 
 Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos mobile; (desenvolvi com minha equipe um sistema de cadastro de formulário,checklists e controle de equipamentos para uma empresa em Macaé onde aprendi competências como php,html,css,Javascript,mysql,git,github,nextJs e prisma ).
 
