@@ -9,9 +9,9 @@ Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos m
 
 • Habilidades em: html,css,sass,gulp,metodologia BEM,git e github; 
 
-• Conhecimentos: Javascript,nextJS,Java,mysql,prisma,SQL,react e typescript,spring boot;
+• Conhecimentos: Javascript,nextJS,Java,mysql,prisma,SQL,react e typescript,spring boot,React native;
 
-• Noções de: React native,php,redux,jest e cypress
+• Noções de: php,redux,jest e cypress
 
 <h2 align="left">
  🦄 Linguagens:
