@@ -14,7 +14,7 @@ Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos m
 • Noções de: php,redux,jest e cypress
 
 <h2 align="left">
- 🦄 Linguagens:
+   Linguagens:
 </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,3 @@ Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos m
 ![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-
-<p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
