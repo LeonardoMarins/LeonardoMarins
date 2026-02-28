@@ -3,15 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Desenvolvedor Full Stack, graduado em Sistema de informação, profissional com perfil em trabalhar com equipe.
+Desenvolvedor de Software especializado em C# e .NET, com experiência sólida na construção e evolução de sistemas web escaláveis, APIs REST e integrações entre serviços. Atuo com foco em qualidade de código, performance e entrega de valor real ao negócio.
 
-Participação e Elaboração de Desenvolvimento de sistemas web e aplicativos mobile; (desenvolvi com minha equipe um sistema de cadastro de formulário,checklists e controle de equipamentos para uma empresa em Macaé onde aprendi competências como php,html,css,Javascript,mysql,git,github,nextJs e prisma ).
+Tenho vivência prática com .NET Core, SQL Server, RabbitMQ, Angular e React, além de experiência em CI/CD e pipelines no Azure DevOps. Já atuei tanto na manutenção de sistemas legados críticos quanto no desenvolvimento de novos produtos, participando ativamente de decisões técnicas e melhorias contínuas.
 
-• Habilidades em: html,css,sass,gulp,metodologia BEM,git e github; 
-
-• Conhecimentos: Javascript,nextJS,C#,mysql,prisma,SQL,react e typescript,React native;
-
-• Noções de: php,redux,jest e cypress
+Sou responsável, analítico e orientado a resultados, com facilidade para trabalhar em times remotos, entender regras de negócio e transformar requisitos em soluções eficientes e bem estruturadas.
 
 <h2 align="left">
    Linguagens:
